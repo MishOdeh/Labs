@@ -1,0 +1,30 @@
+[
+    {
+        "title": "RemedyMeds",
+        "description": "RemedyMeds.com offers a seamless online service for weight loss, providing access to GLP-1 medications like semaglutide with 24/7 doctor support, without the need for insurance or waitlists.",
+        "imageUrl": "/assets/img/remedy-meds.png",
+        "demoUrl": "https://remedymeds.com/",
+        "skills": ["TypeScript", "NextJS", "Tailwind", "Shadcn UI", "SupaBase"]
+    },
+    {
+        "title": "SoleraBank",
+        "description": "SoleraBank.com is a national bank offering a boutique approach to banking, specializing in self-directed retirement accounts like IRAs and Solo 401(k)s, along with comprehensive business banking solutions tailored to meet unique financial needs.",
+        "imageUrl": "/assets/img/solera.png",
+        "demoUrl": "https://solerabank.com/",
+        "skills": ["WebFlow"]
+    },
+    {
+        "title": "GoFinito",
+        "description": "Gofinito.com provides personalized bookkeeping services for small and medium-sized businesses, offering dedicated accountants, accurate monthly financial statements, and comprehensive tax support to help you focus on growing your business.",
+        "imageUrl": "/assets/img/finito.png",
+        "demoUrl": "https://gofinito.com/",
+        "skills": ["TypeScript", "NextJS", "Tailwind", "Shadcn UI"]
+    },
+    {
+        "title": "TheBitcoinWay",
+        "description": "TheBitcoinWay.com offers expert guidance in Bitcoin self-custody and security. With over 25 years of cybersecurity experience, they provide personalized support for securely managing, purchasing, and safeguarding Bitcoin, ensuring privacy and protection from online threats.",
+        "imageUrl": "/assets/img/TBW.png",
+        "demoUrl": "https://www.thebitcoinway.com/",
+        "skills": ["WebFlow"]
+    }
+]

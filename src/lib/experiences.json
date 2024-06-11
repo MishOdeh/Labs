@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Full Stack Engineering",
+        "description": "Our full stack engineering capabilities enable us to handle all aspects of software development, ensuring every layer of your application is built with precision, interoperability, and scalability in mind. Whether it's integrating new APIs or optimizing legacy systems, our team delivers robust solutions that stand the test of time."
+    },
+    {
+        "title": "Design & UX",
+        "description": "We believe that user experience is the edge that will take you from good to great. Foundational research, including needs finding, market surveys, and qualitative interviews, lead to carefully crafted design that prioritizes aesthetics, accessibility and seamless functionality across all devices and platforms."
+    },
+    {
+        "title": "Financial Flows",
+        "description": "We specialize in designing and implementing sophisticated financial flows that streamline financial management for businesses and their customers. Our solutions are tailored to handle complex flows securely and reliably, whether they're on traditional banking and payment rails, bitcoin, or both."
+    },
+    {
+        "title": "Growth Marketing",
+        "description": "Let us help you scale your user base. Balancing data-driven insights and creative production, we help our clients identify and exploit growth opportunities. From the top of the funnel with web presence and campaiugns, through SEO and content marketing, to conversion rate optimization and A/B testing, we provide a full suite of services to achieve sustainable growth."
+    }
+]
